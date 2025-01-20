@@ -14,5 +14,5 @@ I got access to the Jai beta yesterday-ish (mid-Jan 2025) - so I would assume ev
 - [ ] Compile-time sqlite checks (lightweight version of `sqlx`, as few bells and whistles as possible)
 - [ ] `jaifmt` (just whitespace really, don't care much about the rest)
 - [x] Binding to a non-trivial library (this gives me some ideas re: [FastJaiPI](https://github.com/RobotPajamas/FastJaiPI))
-- [ ] LSP (this won't really bring me much enjoyment, so I doubt it)
+- [ ] LSP ~(this won't really bring me much enjoyment, so I doubt it)~ - turns out I was wrong, this is on the list as it's a very nice, concise, specified piece of work to learn on [Jaive Turkey](https://github.com/RobotPajamas/jaive-turkey)
 - [x] VSCode extension (adding in grammar as I go through the tutorials and might add some quality of life modifications: [Jaive Turkey](https://github.com/RobotPajamas/jaive-turkey))
